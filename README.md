@@ -1,9 +1,7 @@
-AndroidMovieSearchAppProject
+<p>AndroidMovieSearchAppProject</p>
 ============================
 
-learning android
-[All] init with worked fine app-widget and basic query function
-analyse：
-solution：
-risk：no
-data:2013/12/14
+<p>learning android</p>
+<p>[All] init with worked fine app-widget and basic query function</p>
+<p>risk：no</p>
+<p>data:2013/12/14</p>
