@@ -8,6 +8,9 @@
 <p>Dashboard</p>
 <p>dynamic loading list</p>
 
+
+reference:
+http://www.androiduipatterns.com/p/android-ui-pattern-collection.html
 ============================
 
 <p>learning android</p>
