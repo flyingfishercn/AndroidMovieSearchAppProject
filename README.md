@@ -9,9 +9,9 @@
 <p>dynamic loading list</p>
 
 
-reference:
-http://www.androiduipatterns.com/p/android-ui-pattern-collection.html
-============================
+<p>reference:</p>
+<p>http://www.androiduipatterns.com/p/android-ui-pattern-collection.html</p>
+<p>==========================================================</p>
 
 <p>learning android</p>
 <p>[All] init with worked fine app-widget and basic query function</p>
