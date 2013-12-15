@@ -5,7 +5,8 @@
 <p>fragment</p>
 <p>action Drawer</p>
 <p>Background Process Indicator</p>
-
+<p>Dashboard</p>
+<p>dynamic loading list</p>
 
 ============================
 
