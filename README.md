@@ -1,10 +1,10 @@
 <p>AndroidMovieSearchAppProject</p>
 
-Objective
-actionbar
-fragment
-action Drawer
-Background Process Indicator
+<p>Objective</p>
+<p>actionbar</p>
+<p>fragment</p>
+<p>action Drawer</p>
+<p>Background Process Indicator</p>
 
 
 ============================
